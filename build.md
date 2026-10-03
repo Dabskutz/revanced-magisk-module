@@ -1,8 +1,8 @@
 GooglePhotos: 7.92.0.977185651  
 Music-Morphe (arm64-v8a): 9.15.51  
 Music-Morphe (arm-v7a): 9.15.51  
-Reddit-Morphe: 2026.14.0  
-Twitter: 12.27.0-prod.01  
+Reddit-Morphe: 2026.24.0  
+Twitter: 12.29.1-prod.01  
 YouTube-Morphe: 21.16.256  
 
 Install [Microg](https://github.com/MorpheApp/MicroG-RE/) for non-root YouTube and YT Music APKs  
@@ -10,13 +10,13 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: crimera/piko-newx/patches-3.37.1.mpp  
-[Changelog](https://github.com/crimera/piko-newx/releases/tag/v3.37.1)
+Patches: crimera/piko-newx/patches-3.49.0.mpp  
+[Changelog](https://github.com/crimera/piko-newx/releases/tag/v3.49.0)
 
-Patches: MorpheApp/morphe-patches/patches-1.44.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.44.0)
+Patches: MorpheApp/morphe-patches/patches-1.45.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0)
 
-Patches: RookieEnough/De-Vanced/patches-1.4.4.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.4)
+Patches: RookieEnough/De-Vanced/patches-1.5.0.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.5.0)
 
-CLI: MorpheApp/morphe-cli/morphe-desktop-1.17.0-all.jar    
+CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.0-all.jar    
